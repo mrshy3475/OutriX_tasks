@@ -17,6 +17,19 @@ A clean, responsive landing page design featuring a hero section and call-to-act
 
 ---
 
+## 🔗 Live Demo
+
+PORTFOLIO
+👉 https://mrshy3475.github.io/personal-portfolio/
+
+LOGIN & REGISTRATION SYSTEM
+👉 https://mrshy3475.github.io/responsive-login-page/
+
+LANDING PAGE
+👉 https://mrshy3475.github.io/landing-page/
+
+---
+
 ## 💡 Purpose
 
 These projects reflect the progress I’ve made during my internship with **OutriX**, showcasing my ability to structure HTML pages, apply CSS styling, and design user-friendly interfaces.
