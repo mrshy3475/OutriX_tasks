@@ -15,6 +15,12 @@ Designed to be clean, minimal, and mobile-friendly – perfect for showcasing pr
 
 ---
 
+## 🔗 Live Demo
+
+👉 https://mrshy3475.github.io/landing-page/
+
+---
+
 ## 🧠 Purpose
 
 This landing page was built as **Task 3** for frontend development practice — focusing on:
